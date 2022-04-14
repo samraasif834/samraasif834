@@ -61,6 +61,11 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samraasif834&theme=react&line_height=40&hide=css"/>
     </a>
+   <a href="">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=react&line_border=true" />
+    </a>
+<!--     <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+ -->
 </div
   
 <br/>
