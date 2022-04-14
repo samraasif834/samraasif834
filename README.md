@@ -56,10 +56,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samraasif834&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samraasif834&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samraasif834&theme=react&line_height=40&hide=css"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samraasif834&theme=react&line_height=40&hide=css"/>
     </a>
    <a href="">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samraasif834&theme=react&line_border=true" />
