@@ -8,11 +8,6 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
----
 
 <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=samraasif834&repo=samraasif834&countColorcountColor&countColor=%237B1E7B"/>
 
@@ -70,14 +65,5 @@
   
 <br/>
 
----
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
- 
----
-
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
 
