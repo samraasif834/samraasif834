@@ -2,12 +2,11 @@
 
 <img align="right" alt="GIF" height="200px" width="300px" src="https://github.com/samraasif834/samraasif834/blob/main/d4tvukbt5mra37cvwklk%20(1).gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Software Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on mobile development technologies like flutter etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
 
