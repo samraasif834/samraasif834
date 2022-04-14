@@ -1,4 +1,4 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="<div class="tenor-gif-embed" data-postid="19698939" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shake-hand-gif-19698939">Shake Hand GIF</a>from <a href="https://tenor.com/search/shake+hand-gifs">Shake Hand GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" />
+# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://github.com/samraasif834/samraasif834/blob/main/d4tvukbt5mra37cvwklk%20(1).gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
