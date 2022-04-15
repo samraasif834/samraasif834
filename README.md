@@ -24,7 +24,13 @@
 
   <h2 align="left"> Github Statistics 📈 </h2>
   
-  <div align="left"> 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samraasif834&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="samraasif834" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samraasif834&show_icons=true&locale=en&theme=synthwave" alt="samraasif834" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samraasif834&theme=synthwave" alt="samraasif834" /></p>
+  
+<!--   <div align="left"> 
      <a href="">
       <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samraasif834&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
@@ -36,7 +42,7 @@
     </a>
 <!--     <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
  -->
-</div
+</div> -->
   
 <br/>
 
