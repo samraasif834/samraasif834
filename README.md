@@ -29,6 +29,6 @@
 <img />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samraasif834&theme=synthwave" />
 <img src="https://activity-graph.herokuapp.com/graph?username=samraasif834&theme=synthwave-84"/>
-
+![snake gif](https://github.com/samraasif834/samraasif834/blob/output/github-contribution-grid-snake.gif)
 
 
