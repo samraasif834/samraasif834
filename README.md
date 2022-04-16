@@ -29,7 +29,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samraasif834&theme=synthwave" />
 <img src="https://github-readme-stats.vercel.app/api?username=samraasif834&show_icons=true&count_private=true&theme=synthwave" />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samraasif834&layout=compact&count_private=true&theme=synthwave" />
 <img src="https://activity-graph.herokuapp.com/graph?username=samraasif834&theme=synthwave-84" />
 
