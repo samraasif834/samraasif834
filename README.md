@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samra-asif-01a7ab136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samra-asif-01a7ab136" height="30" width="40" /></a>
-<a href="https://fb.com/sumra.asif.775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumra.asif.775" height="30" width="40" /></a>
-<a href="https://instagram.com/samraasif08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samraasif08" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/sumra.asif.775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumra.asif.775" height="30" width="40" /></a>
+<a href="https://instagram.com/samraasif08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samraasif08" height="30" width="40" /></a> -->
 </p>
 <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=samraasif834&repo=samraasif834&countColorcountColor&countColor=%237B1E7B"/>
 
