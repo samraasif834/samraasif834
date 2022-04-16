@@ -1,31 +1,14 @@
-name: main
-
-on: [push]
-
+name: Generate Snake
+on:
+  schedule:
+      # every 6 hours
+    - cron: "0 */6 * * *"
 jobs:
-  test:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-        with:
-          cache: yarn
-          node-version: 16
-      - run: yarn install --frozen-lockfile
 
-      - run: yarn type
-      - run: yarn lint
-      - run: yarn test --ci
-
-  test-action:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: update action.yml to use image from local Dockerfile
-        run: |
-          sed -i "s/image: .*/image: Dockerfile/" action.yml
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
         uses: ./
