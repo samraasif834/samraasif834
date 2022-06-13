@@ -1,5 +1,6 @@
-# Hi there, I'm Samra <img width="30px" src="https://github.com/samraasif834/samraasif834/blob/main/waving-hand-joypixels.gif" />
-
+# Hi there, I'm Samra 
+<!-- <img width="10px" src="https://github.com/samraasif834/samraasif834/blob/main/waving-hand-joypixels.gif" />
+ -->
 <img align="right" alt="GIF" height="200px" width="300px" src="https://github.com/samraasif834/samraasif834/blob/main/d4tvukbt5mra37cvwklk%20(1).gif" />
 
 ## I'm a Software Engineering Student  
